@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Ibrahim Yassin</h1>
 <h3 align="center">I'm a Passionate Learner - Machine Learning Engineer</h3>
-<img align="right" alt="coding width="200" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **Computer Vision , Natural Language Processing**
 
